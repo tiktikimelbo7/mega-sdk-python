@@ -22,7 +22,7 @@ jobs:
       - name: Login to ghcr.io registry
         run: docker login https://ghcr.io -u token -p ${{ secrets.GH_TOKEN }}
 
-      - if: if: startsWith(github.ref, 'refs/heads/master')
+      - if: startsWith(github.ref, 'refs/heads/master')
         run: echo "TAG=latest" >> $GITHUB_ENV
 
       - if: startsWith(github.ref, 'refs/tags')
