@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM debian:bullseye-20220228-slim
 
 MAINTAINER tiktikimelbo7 tiktikimelbo7@gmail.com
 
