@@ -1,4 +1,4 @@
-FROM fedora:33
+FROM ubuntu:20.4
 
 MAINTAINER tiktikimelbo7 tiktikimelbo7@gmail.com
 
