@@ -1,4 +1,4 @@
-FROM python:3-slim-buster
+FROM fedora:33
 
 MAINTAINER tiktikimelbo7 tiktikimelbo7@gmail.com
 
