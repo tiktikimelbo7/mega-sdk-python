@@ -1,4 +1,4 @@
-FROM ubuntu:20.4
+FROM ubuntu:20.04
 
 MAINTAINER tiktikimelbo7 tiktikimelbo7@gmail.com
 
