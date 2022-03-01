@@ -1,4 +1,4 @@
-FROM debian:bullseye-20220228-slim
+FROM python:3-slim-buster
 
 MAINTAINER tiktikimelbo7 tiktikimelbo7@gmail.com
 
